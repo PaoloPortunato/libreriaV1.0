@@ -10,7 +10,7 @@ import java.time.LocalDate;
 @Data
 public class MapperAutore {
 
-
+    private String carletto;
     private String nome;
     private String cognome;
     private LocalDate annoDiNascita;
