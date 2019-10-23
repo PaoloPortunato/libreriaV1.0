@@ -9,8 +9,7 @@ import java.time.LocalDate;
 
 @Data
 public class MapperAutore {
-
-    private String carletto;
+    
     private String nome;
     private String cognome;
     private LocalDate annoDiNascita;
@@ -22,8 +21,6 @@ public class MapperAutore {
        autore.setCognome(dtoAutore.getCognome());
        autore.setAnnoDiNascita(dtoAutore.getAnnoDiNascita());
         return autore;
-
-
     }
 
 
