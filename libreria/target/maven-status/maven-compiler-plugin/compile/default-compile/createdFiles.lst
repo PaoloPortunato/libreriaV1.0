@@ -1,0 +1,15 @@
+com\examplev2\libreria\controller\ProvaController.class
+com\examplev2\libreria\DTO\DTOAutore.class
+com\examplev2\libreria\entity\Libro$PropertiesLibro.class
+com\examplev2\libreria\DTO\DTOLibro.class
+com\examplev2\libreria\service\LibroService.class
+com\examplev2\libreria\entity\Autore.class
+com\examplev2\libreria\Mapper\MapperAutore.class
+com\examplev2\libreria\serviceImpl\ServiceImpl.class
+com\examplev2\libreria\entity\Autore$PropertiesAutore.class
+com\examplev2\libreria\Mapper\MapperLibro.class
+com\examplev2\libreria\MyHTTPException\BookNotFoundException.class
+com\examplev2\libreria\entity\GeneriLibri.class
+com\examplev2\libreria\MyHTTPException\NullPointValuesException.class
+com\examplev2\libreria\entity\Libro.class
+com\examplev2\libreria\LibreriaApplication.class
